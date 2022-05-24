@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="25dp"
+    tools:context=".activity.MainActivity">
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="25dp"
+        android:textAllCaps="false"
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:textSize="18sp"/>
+
+    <Button
+        android:id="@+id/btn_long"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="normal"
+        android:textColor="@color/white"
+        android:textAllCaps="false"
+        android:layout_marginBottom="10dp"
+        android:text="@string/get_long"/>
+
+    <Button
+        android:id="@+id/btn_int"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="normal"
+        android:textColor="@color/white"
+        android:textAllCaps="false"
+        android:layout_marginBottom="10dp"
+        android:text="@string/get_int"/>
+
+    <Button
+        android:id="@+id/btn_double"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="normal"
+        android:textColor="@color/white"
+        android:textAllCaps="false"
+        android:layout_marginBottom="10dp"
+        android:text="@string/get_double"/>
+
+    <Button
+        android:id="@+id/btn_boolean"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="normal"
+        android:textColor="@color/white"
+        android:textAllCaps="false"
+        android:layout_marginBottom="10dp"
+        android:text="@string/get_boolean"/>
+
+</LinearLayout>

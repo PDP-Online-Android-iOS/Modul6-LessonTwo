@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin</string>
+    <string name="get_int">Get Int</string>
+    <string name="get_long">Get Long</string>
+    <string name="get_double">Get Double</string>
+    <string name="get_boolean">Get Boolean</string>
+</resources>

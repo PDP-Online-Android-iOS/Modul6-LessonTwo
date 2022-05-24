@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin</string>
+    <string name="lan_english">English</string>
+    <string name="lan_russian">Russian</string>
+    <string name="lan_uzbek">Uzbek</string>
+    <string name="language">Language</string>
+</resources>

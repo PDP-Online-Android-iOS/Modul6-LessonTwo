@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kotlin</string>
+    <string name="lan_english">Aнглийский</string>
+    <string name="lan_russian">Rусский</string>
+    <string name="lan_uzbek">Узбекский</string>
+    <string name="language">Язык</string>
+</resources>
